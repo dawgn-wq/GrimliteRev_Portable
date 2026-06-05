@@ -4,7 +4,7 @@ A changed version of Grimlite Rev with Portable Flash Player, an AQW Bot Client.
 Support the project former creator by donating here: https://paypal.me/GentleGanku <br />
 Contact former creator through Discord: .Gentle G#2681
 # Latest Version
-The latest version as of now is the Grimlite Rev v1.3.4_Portable: https://github.com/dawgn-wq/GrimliteRev/releases/latest <br /> <br />
+The latest version as of now is the Grimlite Rev v1.3.4_Portable: https://github.com/dawgn-wq/GrimliteRev_Portable/releases/latest <br /> <br />
 # Updates
 As of 5th June (2026), there are no more development updates for Grimlite Rev Portable and its official support has been dropped since then. 
 # How to Use:
